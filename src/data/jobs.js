@@ -3,7 +3,32 @@ const jobs = [
   { id: 2, title: "Web Developer", company: "Tech Solutions", location: "On-site", type: "Full-time" },
   { id: 3, title: "React Engineer", company: "Open Systems", location: "Remote", type: "Full-time" },
   { id: 4, title: "UI/UX Intern", company: "DesignPro", location: "On-site", type: "Internship" },
-  { id: 5, title: "Full Stack Developer", company: "ByteHouse", location: "On-site", type: "Full-time" }
+  { id: 5, title: "Full Stack Developer", company: "ByteHouse", location: "On-site", type: "Full-time" },
+  { id: 6, title: "Backend Developer Intern", company: "CloudWorks", location: "Remote", type: "Internship" },
+  { id: 7, title: "Python Developer", company: "DataFlow Inc", location: "Remote", type: "Full-time" },
+  { id: 8, title: "Mobile App Developer", company: "AppStudio", location: "On-site", type: "Full-time" },
+  { id: 9, title: "DevOps Engineer Intern", company: "InfraHost", location: "Remote", type: "Internship" },
+  { id: 10, title: "Java Developer", company: "Enterprise Systems", location: "On-site", type: "Full-time" },
+  { id: 11, title: "Product Designer Intern", company: "Creative Labs", location: "Remote", type: "Internship" },
+  { id: 12, title: "QA Engineer", company: "TestWorks", location: "On-site", type: "Full-time" },
+  { id: 13, title: "Node.js Developer", company: "FastAPI Co", location: "Remote", type: "Full-time" },
+  { id: 14, title: "UX Research Intern", company: "UserFirst", location: "On-site", type: "Internship" },
+  { id: 15, title: "Machine Learning Engineer", company: "AI Innovations", location: "Remote", type: "Full-time" },
+  { id: 16, title: "Vue.js Developer Intern", company: "WebCraft", location: "Remote", type: "Internship" },
+  { id: 17, title: "Database Administrator", company: "DataCore", location: "On-site", type: "Full-time" },
+  { id: 18, title: "Frontend Developer", company: "PixelStudio", location: "On-site", type: "Full-time" },
+  { id: 19, title: "Angular Developer Intern", company: "Enterprise Hub", location: "Remote", type: "Internship" },
+  { id: 20, title: "Cloud Architect", company: "SkyNet Inc", location: "Remote", type: "Full-time" },
+  { id: 21, title: "Security Engineer Intern", company: "CyberGuard", location: "On-site", type: "Internship" },
+  { id: 22, title: "Graphic Designer", company: "ArtWorks", location: "Remote", type: "Full-time" },
+  { id: 23, title: "WordPress Developer Intern", company: "WebFlow", location: "Remote", type: "Internship" },
+  { id: 24, title: "Systems Administrator", company: "TechCore", location: "On-site", type: "Full-time" },
+  { id: 25, title: "API Development Intern", company: "IntegrationHub", location: "Remote", type: "Internship" },
+  { id: 26, title: "C++ Developer", company: "Performance Systems", location: "On-site", type: "Full-time" },
+  { id: 27, title: "Tech Lead", company: "InnovateTech", location: "Remote", type: "Full-time" },
+  { id: 28, title: "Data Analyst Intern", company: "InsightCorp", location: "Remote", type: "Internship" },
+  { id: 29, title: "TypeScript Developer", company: "CodeWeave", location: "On-site", type: "Full-time" },
+  { id: 30, title: "SEO Specialist Intern", company: "MarketBoost", location: "Remote", type: "Internship" }
 ];
 
 export default jobs;
